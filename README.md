@@ -1,8 +1,6 @@
-# Expo Development Tools
+# Expo Developer Tools
 
-Expo Development Tools supports
+Expo Dev Tools has moved! It's now part of the [Expo CLI monorepo](https://github.com/expo/expo-cli).
 
-* viewing logs from supporting services, (React Native Packager)
-* viewing logs from your device
-* publishing your project
-* debugging connectivity
+- [Issues](https://github.com/expo/expo-cli/issues)
+- [Contributing](https://github.com/expo/expo-cli/blob/master/CONTRIBUTING.md)
